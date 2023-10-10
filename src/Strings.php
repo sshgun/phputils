@@ -1,8 +1,6 @@
 <?php
 
-
-namespace shhgun\phputils;
-
+namespace sshgun\phputils;
 
 /**
  * Class Strings

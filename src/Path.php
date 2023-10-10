@@ -1,6 +1,6 @@
 <?php
 
-namespace shhgun\phputils;
+namespace sshgun\phputils;
 
 class Path
 {
